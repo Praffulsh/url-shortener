@@ -42,7 +42,7 @@ Before setting up the project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/Praffulsh/url-shortener.git
 cd url-shortener
 ```
 
